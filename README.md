@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Ruchit Chovatiya 
 
 **Professional Summary**  
-I am student learning Data Scientist specializing in Data visualizing & manipulating Passionate about Machine Learning, I enjoy building scalable solutions and collaborating on innovative projects.  
-
-🔹 **Key Achievements**  
-- Led [Project/Achievement] resulting in [Outcome].  
-- Contributed to [Open-Source Project].  
-- Awarded [Award/Certification].  
+I'm passionate about **data analysis, machine learning, and automation** using Python. My expertise lies in:  
+- **Data Manipulation:** `Pandas`, `NumPy`  
+- **Data Visualization:** `Matplotlib`, `Seaborn`  
+- **Machine Learning:** `Scikit-learn`, `TensorFlow`  
+- **Big Data Tools:** `Spark`, `SQL`   
 
 ---
 

@@ -11,8 +11,8 @@ I am student learning Data Scientist specializing in Data visualizing & manipula
 ---
 
 ## 📫 **Contact Me**  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **Email:** [ruchitchovatiya@gmail.com](chovatiyaruchit@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](linkedin.com/in/ruchit-chovatiya-7a320428a)  
 - **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
 
 ---
@@ -20,15 +20,9 @@ I am student learning Data Scientist specializing in Data visualizing & manipula
 ## 🛠 **Tech Stack**  
 
 ### **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 
 ### **Frameworks & Tools**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-
-### **Databases & Cloud**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ruchit Chovatiya 
 
 **Professional Summary**  
-[Your Name] is a [Your Role, e.g., Software Engineer, Data Scientist] specializing in [Key Skills, e.g., backend development, machine learning]. Passionate about [Your Interests, e.g., open-source, cloud computing], I enjoy building scalable solutions and collaborating on innovative projects.  
+I am student learning Data Scientist specializing in Data visualizing & manipulating Passionate about Machine Learning, I enjoy building scalable solutions and collaborating on innovative projects.  
 
 🔹 **Key Achievements**  
 - Led [Project/Achievement] resulting in [Outcome].  

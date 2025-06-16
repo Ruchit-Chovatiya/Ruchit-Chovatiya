@@ -6,7 +6,12 @@ I'm passionate about **data analysis, machine learning, and automation** using P
 - **Data Visualization:** `Matplotlib`, `Seaborn`  
 - **Machine Learning:** `Scikit-learn`, `TensorFlow`  
 - **Big Data Tools:** `Spark`, `SQL`   
-
+---
+### **Key Features I Work With**
+- **NumPy**: Large multi-dimensional arrays, mathematical functions
+- **Pandas**: Data wrangling, time series, DataFrame operations
+- **Matplotlib**: Publication-quality visualizations, custom plots
+- **Scikit-learn**: Predictive modeling, feature engineering pipelines
 ---
 
 ## 📫 **Contact Me**  
@@ -23,5 +28,7 @@ I'm passionate about **data analysis, machine learning, and automation** using P
 
 ### **Frameworks & Tools**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ruchit Chovatiya 
 
 **Professional Summary**  
-I'm passionate about **data analysis, machine learning, and automation** using Python. My expertise lies in:  
+I'm passionate about **data science, machine learning, and automation** using Python. My expertise lies in:  
 - **Data Manipulation:** `Pandas`, `NumPy`  
 - **Data Visualization:** `Matplotlib`, `Seaborn`  
 - **Machine Learning:** `Scikit-learn`, `TensorFlow`  

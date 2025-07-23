@@ -16,8 +16,8 @@ I'm passionate about **data science, machine learning, and automation** using Py
 
 ## 📫 **Contact Me**  
 - **Email:** [ruchitchovatiya@gmail.com](chovatiyaruchit@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](linkedin.com/in/ruchit-chovatiya-7a320428a)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- **LinkedIn:** [linkedin.com/in/Ruchit-Chovatiya](linkedin.com/in/ruchit-chovatiya-7a320428a)  
+- **GitHub:** [github.com/Ruchit-Chovatiya](https://github.com/Ruchit-Chovatiya)  
 
 ---
 
